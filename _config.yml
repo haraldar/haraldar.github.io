@@ -1,13 +1,1 @@
-title: Harald Arthur Asmus
-
-description: My curriculum vitae.
-
 theme: jekyll-theme-midnight
-
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
-      permalink: /:title/
