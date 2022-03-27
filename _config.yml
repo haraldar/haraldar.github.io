@@ -1,1 +1,14 @@
-theme: jekyll-theme-slate
+title: Harald Arthur Asmus
+
+description: My curriculum vitae.
+
+theme: jekyll-theme-tactile
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      
