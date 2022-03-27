@@ -1,5 +1,6 @@
 ---
 title: Harald Arthur Asmus
+tagline: This is my curriculum vitae.
 ---
 
 ## Work experience
