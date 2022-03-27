@@ -2,8 +2,6 @@
 title: Die Quantified Self Bewegung und unsere Gesellschaft
 ---
 
-# Die Quantified Self Bewegung und unsere Gesellschaft 
-
 ### Eine App für Benjamin Franklin
 
 Benjamin Franklin war ein außergewöhnlicher Mensch. 
