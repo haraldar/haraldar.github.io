@@ -1,10 +1,10 @@
 ## Work experience
 
-March 2020 - now, *DCON Software & Service AG*, Software Tester
+March 2020 - now, *DCON Software & Service AG*, Kaiserslautern, Software Tester
 
-Sep 2020 - March 2022, *Institute for Mechanical and Automotive Design* (iMAD, TUK), Student Assistant IT Administration
+Sep 2020 - March 2022, *Institute for Mechanical and Automotive Design*, Kaiserslautern, Student Assistant IT Administration
 
-Sep 2021 - now, *Corning Inc.* (Kaiserslautern), Working Student Business Unit IT
+Sep 2021 - now, *Corning Inc.*, Kaiserslautern, Working Student Business Unit IT
 
 ---
 
