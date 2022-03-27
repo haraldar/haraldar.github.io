@@ -14,7 +14,7 @@ Sep 2021 - now, *Corning Inc.*, Kaiserslautern, Working Student Business Unit IT
 
 ## Blog Posts
 
-Feb 25th, 2020 - University of Kaiserslautern - ["Die Quantified Self Bewegung und die Gesellschaft"](blog/quantified-self-and-society.md)
+Feb 25th, 2020 - University of Kaiserslautern - ["Die Quantified Self Bewegung und die Gesellschaft"](blogposts/quantified-self-and-society.md)
 
 ---
 
