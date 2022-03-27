@@ -1,7 +1,2 @@
 theme: jekyll-theme-tactile
 layout: home
-defaults:
-  - scope:
-      path: "blogposts"
-    value:
-      theme: jekyll-theme-slate
