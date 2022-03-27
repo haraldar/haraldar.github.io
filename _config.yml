@@ -10,5 +10,4 @@ defaults:
       type: posts
     values:
       layout: post
-  - scope:
-      
+      permalink: /blog/:title/
