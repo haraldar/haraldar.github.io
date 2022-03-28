@@ -5,7 +5,7 @@ description: This is my curriculum vitae.
 
 ## Work experience
 
-March 2020 - now, *DCON Software & Service AG*, Kaiserslautern, Software Tester
+Oct 2019 - now, *DCON Software & Service AG*, Kaiserslautern, Software Tester
 
 Sep 2020 - March 2022, *Institute for Mechanical and Automotive Design*, Kaiserslautern, Student Assistant IT Administration
 
