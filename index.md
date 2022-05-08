@@ -1,6 +1,14 @@
 ---
-title: Harald Arthur Asmus
+title: [Harald Arthur Asmus](https://www.github.com/haraldar)
 description: This is my curriculum vitae.
+---
+
+## Education
+
+---
+
+## Pre-work experience
+
 ---
 
 ## Work experience
@@ -24,3 +32,5 @@ Feb 25th, 2020 - University of Kaiserslautern - ["Die Quantified Self Bewegung u
 Oct 12th, 2020 - Instructables - [Screaming Potato](https://www.instructables.com/Potato-Soul-Bring-Any-Potato-to-Life-With-This-Sim/)
 
 March 2022 - GitHub - [QuickZebra](https://github.com/haraldar/QuickZebra)
+
+April 2022 - GitHub - [GitEmail](https://github.com/haraldar/GitEmail)
