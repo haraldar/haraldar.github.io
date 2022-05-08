@@ -5,9 +5,21 @@ description: This is my curriculum vitae.
 
 ## Education
 
+[//]: <> (Sep 09 - Aug 17, Lion-Feuchtwanger-Gymnasium, Munich, Germany)
+
+[//]: <> (Sep 17 - Mar 19, Hohenstaufen-Gymnasium, Kaiserslautern, Germany)
+
+[//]: <> (Apr 19 - Nov 21, Computer Science, Technical University Kaiserslautern, Kaiserslautern, Germany)
+
+[//]: <> (Nov 21 - now, Electrical Engineering and Information Technology, Technical University Kaiserslautern, Kaiserslautern, Germany)
+
 ---
 
-## Pre-work experience
+## Internships
+
+[//]: <> (Feb 14, 1 Week Internship Auto Teile Unger)
+
+[//]: <> (Jun 18, Department Augumented Vision, 1 Week Internship DFKI KL)
 
 ---
 
