@@ -1,5 +1,5 @@
 ---
-title: [Harald Arthur Asmus](https://www.github.com/haraldar)
+title: Harald Arthur Asmus
 description: This is my curriculum vitae.
 ---
 
